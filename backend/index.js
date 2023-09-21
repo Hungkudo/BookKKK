@@ -3,6 +3,7 @@ import mysql from "mysql"
 import cors from "cors"
 
 const app = express();
+//them moiasđs
 
 const db = mysql.createConnection({
     host: "localhost",
